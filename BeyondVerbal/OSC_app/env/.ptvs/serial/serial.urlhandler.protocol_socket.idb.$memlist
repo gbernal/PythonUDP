@@ -1,0 +1,15 @@
+SerialException
+urlparse
+s
+portNotOpenError
+time
+logging
+Serial
+LOGGER_LEVELS
+select
+SerialBase
+to_bytes
+socket
+errno
+sys
+POLL_TIMEOUT

@@ -1,0 +1,10 @@
+ctypes
+serial
+portNotOpenError
+time
+writeTimeoutError
+Serial
+SerialException
+SerialBase
+to_bytes
+win32

@@ -1,0 +1,4 @@
+TimeoutError
+SocketIOError
+PacketError
+ConnectionError
